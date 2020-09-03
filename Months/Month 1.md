@@ -31,8 +31,9 @@ I cannot complete the machine learning course in the first month so the target i
 I asked my friends who already completed the machine learning course about the prerequisites of the course. They  suggested to me that I don't have to be very good in statistics in order to start this course so that's why I also enrolled in the Machine Learning course.
 
 Following are the courses of Statistics and Machine Learning:
-*. [Basic Statistics](https://www.coursera.org/learn/basic-statistics/)
-*. [Machine Learning](https://www.coursera.org/learn/machine-learning)
+
+* . [Basic Statistics](https://www.coursera.org/learn/basic-statistics/)
+* . [Machine Learning](https://www.coursera.org/learn/machine-learning)
 
 ## My Weekly progress:
 ### [Week 1](https://github.com/habibanalytics/6-Months-Towards-Data-Science/blob/master/Weeks/Week%201.md)
