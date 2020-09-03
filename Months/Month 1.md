@@ -17,9 +17,12 @@ The following are the courses from the specialization:
 5. [Capstone: Retrieving, Processing, and Visualizing Data with Python](https://www.coursera.org/learn/python-data-visualization/home/welcome)
 
 ### Goal 2
-I want to achieve a gold medal badge on hackerank's python domain by the end of this month.
+I want to read 'The Python Tutorial' from the official website [python.org tutorial](https://docs.python.org/3/tutorial/) by the end of this month.
 
 ### Goal 3
+I want to achieve a gold medal badge on hackerank's python domain by the end of this month.
+
+### Goal 4
 Complete the [Basic Statistics Course](https://www.coursera.org/learn/basic-statistics/).
 
 The main focus in the first month would be Mostly on python and statistics. Since I had a lot of time with me so I also enrolled in the Machine Learning course by Andrew NG on Coursera as well. 
