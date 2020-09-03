@@ -20,6 +20,6 @@ Following are the courses of Statistics and Machine Learning:
 *. [Machine Learning](https://www.coursera.org/learn/machine-learning)
 
 This is what I have done in each week:
-# [Week 1](https://github.com/habibanalytics/6-Months-Towards-Data-Science/blob/master/Weeks/Week%201.md)
+### [Week 1](https://github.com/habibanalytics/6-Months-Towards-Data-Science/blob/master/Weeks/Week%201.md)
 
 
