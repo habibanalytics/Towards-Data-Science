@@ -20,7 +20,7 @@ I will share my time and organization of courses and sources and codes for all m
 
 So Here is my whole experience. I have linked my months and in each month you'll find my monthly target as well as weeks and in each week you'll Find what I did each week along with the time and details of my work done in that particular week.
 # [Month 1](https://github.com/habibanalytics/6-Months-Towards-Data-Science/blob/master/Months/Month%201.md)
-* . Week 1
+## * . [Week 1](https://github.com/habibanalytics/6-Months-Towards-Data-Science/blob/master/Weeks/Week%201.md)
 * . Week 2
 * . Week 3
 * . Week 4
