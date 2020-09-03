@@ -21,6 +21,32 @@ So a total of 5 hours a day in the first week. Mostly I would program in the mor
 
 The following are the questions i solved from w3resource and hackerrank
 ## [W3resource](https://www.w3resource.com/python-exercises/python-basic-exercises.php)
+**Variables Calculations**
 
+1, 4, 10, 15, 30, 38, 39, 40, 59, 60, 61, 62, 65, 66, 67, 68, 73, 91
+
+**I/O**
+
+1, 5, 13, 37, 88, 119, 120, 130, 135
+
+**Lists**
+
+6, 8, 22, 27, 27, 28, 58, 82, 83, 94, 110, 112, 114, 115, 118, 120, 125, 148, 148, 150
+
+**Strings**
+
+5, 7, 19, 81, 92, 120, 20, 81, 128, 129, 134, 27, 84, 94, 95, 134, 20, 95, 84
+
+**If else**
+
+16, 17, 18, 21, 21, 23, 24, 24, 25, 33, 34, 35, 35, 36, 89, 109, 123, 124, 138, 147, 149, 138
+
+**Loops**
+
+58, 68, 50, 149
+
+**loops and if else**
+
+29, 31, 32, 149, 150
 
 ## [Hackerank/Python](https://www.hackerrank.com/domains/python)
