@@ -20,7 +20,7 @@ The following are the courses from the specialization:
 I want to read 'The Python Tutorial' from the official website [python.org tutorial](https://docs.python.org/3/tutorial/) by the end of this month.
 
 ### Goal 3
-I want to achieve a gold medal badge on hackerank's python domain by the end of this month.
+I want to achieve a 5 Star - Gold Badge Level on hackerank's python domain by the end of this month.
 
 ### Goal 4
 Complete the [Basic Statistics Course](https://www.coursera.org/learn/basic-statistics/).
