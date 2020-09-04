@@ -23,34 +23,29 @@ So a total of 5 hours a day in the first week. Mostly I would program in the mor
 
 The following are the questions i solved from w3resource and hackerrank
 ## [W3resource](https://www.w3resource.com/python-exercises/python-basic-exercises.php)
-[**Variables Calculations**](https://github.com/habibanalytics/Python_Exercises/blob/master/Variables_and_I_O.ipynb)
-
-1, 4, 10, 15, 30, 38, 39, 40, 59, 60, 61, 62, 65, 66, 67, 68, 73, 91
-
-Although i did it uptill 61
-
 **I/O**
 
 1, 5, 13, 37, 88, 119, 120, 130, 135
 
-**Lists**
+[**Variables Calculations**](https://github.com/habibanalytics/Python_Exercises/blob/master/Variables_and_I_O.ipynb)
 
-6, 8, 22, 27, 27, 28, 58, 82, 83, 94, 110, 112, 114, 115, 118, 120, 125, 148, 148, 150
+1, 4, 10, 15, 30, 38, 39, 40, 59, 60, 61, 62, 65, 66, 67, 68, 73, 91
 
-**Strings**
+[**If else**](https://github.com/habibanalytics/Python_Exercises/blob/master/If%20Else.ipynb)
 
-5, 7, 19, 81, 92, 120, 20, 81, 128, 129, 134, 27, 84, 94, 95, 134, 20, 95, 84
+16, 18, 21, 23, 24, 33, 34, 35, 36, 89, 109, 124, 138, 147
 
-**If else**
+[**Loops**](https://github.com/habibanalytics/Python_Exercises/blob/master/Loops.ipynb)
 
-16, 17, 18, 21, 21, 23, 24, 24, 25, 33, 34, 35, 35, 36, 89, 109, 123, 124, 138, 147, 149, 138
+28, 29, 58, 68, 81, 82, 83, 84, 110, 149
 
-**Loops**
-
-58, 68, 50, 149
-
-**loops and if else**
-
-29, 31, 32, 149, 150
 
 ## [Hackerank/Python](https://www.hackerrank.com/domains/python)
+I solved the programs from the [python domain](https://www.hackerrank.com/domains/python) on hackerrak from the following filers:
+
+[Filter link on hackkerank](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-introduction)
+
+![img](https://github.com/habibanalytics/6-Months-Towards-Data-Science/blob/master/images/hackerrank.png)
+
+My hackerrank progress so far [Hackerrank Profile](https://www.hackerrank.com/habibanalytics?hr_r=1)
+
