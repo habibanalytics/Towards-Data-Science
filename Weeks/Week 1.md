@@ -1,4 +1,4 @@
-# Week 1
+# **Week 1**
 
 ## Python Progress
 This was my first week. In the first week I started a python course from coursera. 
