@@ -11,6 +11,7 @@ I talked to a lot of data scientists online and from their suggestions I came ac
 
 The idea of sharing this whole experience is that you guys can share with me your opinion, your ideas to help me improve and you can also follow along.
 
+## My Courses Wishlist
 I planned to do all [these courses](https://github.com/habibanalytics/6-Months-Towards-Data-Science/blob/master/Files/Courses%20List.md) within the time of six months. 
 
 The way I am organising all of my courses is that I will set a target for every month and week and by the end of each month and week I will set the target for the upcoming month and week.
@@ -18,8 +19,9 @@ The way I am organising all of my courses is that I will set a target for every 
 By the end of each week I will share my experience in this GitHub repository. 
 I will share my time and organization of courses and sources and codes for all my stuff that i learn and do. 
 
+# My Work
 So Here is my whole experience. I have linked my months and in each month you'll find my monthly target as well as weeks and in each week you'll Find what I did each week along with the time and details of my work done in that particular week.
-## [Month 1](https://github.com/habibanalytics/6-Months-Towards-Data-Science/blob/master/Months/Month%201.md)
+### [Month 1](https://github.com/habibanalytics/6-Months-Towards-Data-Science/blob/master/Months/Month%201.md)
 #### * . [Week 1](https://github.com/habibanalytics/6-Months-Towards-Data-Science/blob/master/Weeks/Week%201.md)
 * . Week 2
 * . Week 3
