@@ -1,4 +1,6 @@
 # Week 1
+
+## Python Progress
 This was my first week. In the first week I started a python course from coursera. 
 *[Python for everybody (Getting started with Python)](https://www.coursera.org/learn/python?specialization=python)*
 
