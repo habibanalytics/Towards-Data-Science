@@ -22,20 +22,25 @@ So a total of 5 hours a day in the first week. Mostly I would program in the mor
 
 
 The following are the questions i solved from w3resource and hackerrank
+
+Each link will take you the the .ipynb file in which i have all the codes.
+
 ## [W3resource](https://www.w3resource.com/python-exercises/python-basic-exercises.php)
 **I/O**
 
+I Didn't solve these
+
 1, 5, 13, 37, 88, 119, 120, 130, 135
 
-[**Variables Calculations**](https://github.com/habibanalytics/Python_Exercises/blob/master/Variables_and_I_O.ipynb)
+[**Variables Calculations (Click for Code file)**](https://github.com/habibanalytics/Python_Exercises/blob/master/Variables_and_I_O.ipynb)
 
 1, 4, 10, 15, 30, 38, 39, 40, 59, 60, 61, 62, 65, 66, 67, 68, 73, 91
 
-[**If else**](https://github.com/habibanalytics/Python_Exercises/blob/master/If%20Else.ipynb)
+[**If else (Click for Code file)**](https://github.com/habibanalytics/Python_Exercises/blob/master/If%20Else.ipynb)
 
 16, 18, 21, 23, 24, 33, 34, 35, 36, 89, 109, 124, 138, 147
 
-[**Loops**](https://github.com/habibanalytics/Python_Exercises/blob/master/Loops.ipynb)
+[**Loops (Click for Code file)**](https://github.com/habibanalytics/Python_Exercises/blob/master/Loops.ipynb)
 
 28, 29, 58, 68, 81, 82, 83, 84, 110, 149
 
@@ -43,7 +48,7 @@ The following are the questions i solved from w3resource and hackerrank
 ## [Hackerank/Python](https://www.hackerrank.com/domains/python)
 I solved the programs from the [python domain](https://www.hackerrank.com/domains/python) on hackerrak from the following filers:
 
-[Filter link on hackkerank](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-introduction)
+[Filter link on hackkerank (Click for hackerrank site)](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-introduction)
 
 ![img](https://github.com/habibanalytics/6-Months-Towards-Data-Science/blob/master/images/hackerrank.png)
 
