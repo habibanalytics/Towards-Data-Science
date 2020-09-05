@@ -1,4 +1,4 @@
-# Path-to-becoming-Data-Scientist
+# 6 Months Towards Data Science
 
 I will introduce myself to get started. I’m Habib from a computer science background.
 
