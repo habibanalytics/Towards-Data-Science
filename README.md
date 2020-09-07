@@ -6,7 +6,6 @@ I worked in Java, C# and C++ In the past. But for the past 6-7 months I have not
  
 The topics such as machine learning, python, data science, big-data These topics are really trending these days and are highly in demand in the market. I searched a lot about data science and so I finally decided to become one because it is a respectable job and it pays well.
 
-For motivation: [Watch](https://youtu.be/gIyYpHupg5M?t=60)
 
 I talked to a lot of data scientists online and from their suggestions I came across a lot of courses that I want to do In order to learn Data Science the proper way.
 
