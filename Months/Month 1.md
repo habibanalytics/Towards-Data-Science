@@ -1,10 +1,10 @@
 # Month 1
 
-## My Goals by the end of this month
-In the first  month I want to learn Python and Statistics.
+## My Goals for this month
+I want to learn Python and Statistics.
 
 ### Goal 1
-In the first month one of my goal is to complete all the courses from the specialization of [python for everybody](https://www.coursera.org/specializations/python) from coursera. 
+One of my goal is to complete all the courses from the specialization of [python for everybody](https://www.coursera.org/specializations/python) from coursera. 
 
 The following are the courses from the specialization:
 1. [Programming for Everybody](https://www.coursera.org/learn/python?specialization=python)
@@ -24,9 +24,6 @@ Complete the [Basic Statistics Course](https://www.coursera.org/learn/basic-stat
 
 ### Goal 5
 I also want to try out [codesignal-arcade](https://app.codesignal.com/arcade) by the end of this month idk if i can finish it or not but it has a lot of prgrams so I'll try out for two months.
-
-### Goal 6
-Not much of a goal for the first month. There are some other couurses from coursera that i also want to try out regarding python.  So Let's just keep it like this that if i can i will complete them in the first month.
 
 ### My Focus in the first month
 The main focus in the first month would be Mostly on **python** and **statistics**. Since I had a lot of time with me so I also enrolled in the Machine Learning course by Andrew NG on Coursera as well. 
