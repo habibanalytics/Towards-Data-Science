@@ -18,12 +18,6 @@ This course Talks about:
 ## Reading Material
 I read the following pages from the [python tutorial](https://docs.python.org/3/tutorial/) site
 
-## Time Spent
-* #### Time spent on Video-lectures
-* #### Time Spent on Reading
-* #### Time Spent on Coding
-* #### Time Spent on Project*
-
 ## Organizing material
 ### Day 1
 What you did on Day 1
@@ -39,7 +33,15 @@ What you did on Day 2
 ..
 ### Day 7
  
+## Time Spent
+* #### Time spent on Video-lectures
+* #### Time Spent on Reading
+* #### Time Spent on Coding
+* #### Time Spent on Project*
 
+## Notes
+* []()
+* []()
 
 ## Practice
 To practice I chose the following programs from **[w3resource / python-basic-exercises/](https://www.w3resource.com/python-exercises/python-basic-exercises.php)**
