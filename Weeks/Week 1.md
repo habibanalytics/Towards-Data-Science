@@ -13,21 +13,6 @@ Certifications attached on [LinkedIn Profile](https://www.linkedin.com/in/habib-
 It's a great course that teaches you the basics of programming, Underlying structure of the computer, how the computer thinks, how the computer works with the programs etc.
 The things I learned in  this course were mainly Focusing around variables, if else statements, loops, try except.
 
-## Practice
-
-I came across a website called [w3resource](https://www.w3resource.com/python-exercises/) that has a lot of problem questions in which I can practice python.
-
-The problem was that the first page almost has 150 programs to solve which is too much.
-
-So I opened up  the first [page](https://www.w3resource.com/python-exercises/python-basic-exercises.php) and sorted the programs topic wise.
-
-To practice Python I will highly recommend [hackerrank](hackerrank.com) because hackerrank is a very good platform to work on your coding skills. For me I have worked on the [hackerrank/algorithm](https://www.hackerrank.com/domains/algorithms) section a lot in the past and enhanced my programming skills in many ways. 
-
-It took me a while to get along with hackerrank.  But Once I Started, now it has become a daily habit. Everyday I will pick up  a problem from hackerrank and I will try to solve it. Sometimes it takes me 30 minutes but sometimes it can take me one to two hours to solve a certain problem.
-Everyday I will learn something new.  
-
-For this past week I spent 3 hours on coding, and 2 hours watching video lectures daily.
-
 ## Reading
 I read the following pages frrom the [python tutorial](https://docs.python.org/3/tutorial/) site
 
@@ -50,7 +35,22 @@ I read the following pages frrom the [python tutorial](https://docs.python.org/3
 * 4.5. pass Statements
 
 ## Time Spent
+
+For this past week I spent 3 hours on coding, and 2 hours watching video lectures daily.
 So a total of 5 hours a day in the first week. Mostly I would program in the mornings because the mind is fresh at that time and during the rest of the day I would watch the video lectures and solve quizzes for the course. I would read the documentation by the end of the day.
+
+## Practice
+
+I came across a website called [w3resource](https://www.w3resource.com/python-exercises/) that has a lot of problem questions in which I can practice python.
+
+The problem was that the first page almost has 150 programs to solve which is too much.
+
+So I opened the first [page](https://www.w3resource.com/python-exercises/python-basic-exercises.php) and sorted the programs topic wise.
+
+To practice Python I will highly recommend [hackerrank](hackerrank.com) because hackerrank is a very good platform to work on your coding skills. For me I have worked on the [hackerrank/algorithm](https://www.hackerrank.com/domains/algorithms) section a lot in the past and enhanced my programming skills in many ways. 
+
+It took me a while to get along with hackerrank.  But Once I Started, now it has become a daily habit. Everyday I will pick up  a problem from hackerrank and I will try to solve it. Sometimes it takes me 30 minutes but sometimes it can take me one to two hours to solve a certain problem.
+Everyday I will learn something new.  
 
 ## Codes
 The following are the questions i solved from w3resource and hackerrank
