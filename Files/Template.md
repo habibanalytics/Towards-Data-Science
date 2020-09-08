@@ -16,7 +16,7 @@ This course Talks about:
 * Topic 3
 
 ## Reading Material
-I read the following pages frrom the [python tutorial](https://docs.python.org/3/tutorial/) site
+I read the following pages from the [python tutorial](https://docs.python.org/3/tutorial/) site
 
 ## Time Spent
 * #### Time spent on Video-lectures
