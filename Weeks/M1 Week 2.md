@@ -1,4 +1,4 @@
-# **Week 1**
+# **Week 2**
 
 ## Python Progress
 This is my 2nd week.
