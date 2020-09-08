@@ -1,13 +1,14 @@
 # **Week 1**
 
 ## Python Progress
-This was my first week. In the first week I completed a python course from coursera. 
+This was my first week. In the first week I completed a python course from coursera.
+
+## My Completed Courses
 *[Python for everybody (Getting started with Python)](https://www.coursera.org/learn/python?specialization=python)*
 
 Certifications attached on [LinkedIn Profile](https://www.linkedin.com/in/habib-ur-rehman/)
 
 ## About this course
-I will recommend this course for a beginner level person who doesn't know anything about programming whatsoever. 
 
 It's a great course that teaches you the basics of programming, Underlying structure of the computer, how the computer thinks, how the computer works with the programs etc.
 The things I learned in  this course were mainly Focusing around variables, if else statements, loops, try except.
@@ -27,30 +28,28 @@ Everyday I will learn something new.
 
 For this past week I spent 3 hours on coding, and 2 hours watching video lectures daily.
 
+## Reading
 I read the following pages frrom the [python tutorial](https://docs.python.org/3/tutorial/) site
 
 1. Whetting Your Appetite
 2. Using the Python Interpreter
-2.1. Invoking the Interpreter
-2.1.1. Argument Passing
-2.1.2. Interactive Mode
-2.2. The Interpreter and Its Environment
+* 2.1. Invoking the Interpreter
+*  2.1.1. Argument Passing
+*  2.1.2. Interactive Mode
+* 2.2. The Interpreter and Its Environment
 2.2.1. Source Code Encoding
 3. An Informal Introduction to Python
-3.1. Using Python as a Calculator
-3.1.1. Numbers
-3.1.2. Strings
-3.1.3. Lists
-3.2. First Steps Towards Programming
+* 3.1. Using Python as a Calculator
+* 3.1.1. Numbers
+* 3.2. First Steps Towards Programming
 4. More Control Flow Tools
-4.1. if Statements
-4.2. for Statements
-4.3. The range() Function
-4.4. break and continue Statements, and else Clauses on Loops
-4.5. pass Statements
+* 4.1. if Statements
+* 4.2. for Statements
+* 4.3. The range() Function
+* 4.4. break and continue Statements, and else Clauses on Loops
+* 4.5. pass Statements
 
-
-
+## Time Spent
 So a total of 5 hours a day in the first week. Mostly I would program in the mornings because the mind is fresh at that time and during the rest of the day I would watch the video lectures and solve quizzes for the course. I would read the documentation by the end of the day.
 
 ## Codes
