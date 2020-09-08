@@ -1,15 +1,15 @@
 ```
 # **Week #**
 
-## TOPIC Progress
+## Courses In Progress
+* []()
+## Courses Completed This Week
+* []()
 
-
-## My Completed Courses
-*[]()*
-
+### My Linked-In
 Certifications attached on [LinkedIn Profile](https://www.linkedin.com/in/habib-ur-rehman/)
 
-## About this course
+## About Completed course
 This course Talks about:
 * Topic 1
 * Topic 2
@@ -19,10 +19,10 @@ This course Talks about:
 I read the following pages frrom the [python tutorial](https://docs.python.org/3/tutorial/) site
 
 ## Time Spent
-* Time spent on Video-lectures
-* Time Spent on Reading
-* Time Spent on Coding
-* Time Spent on Project*
+* #### Time spent on Video-lectures
+* #### Time Spent on Reading
+* #### Time Spent on Coding
+* #### Time Spent on Project*
 
 ## Organizing material
 ### Day 1
@@ -42,23 +42,17 @@ What you did on Day 2
 
 
 ## Practice
-To practice I first chose the following programs from [w3resource / python-basic-exercises/](https://www.w3resource.com/python-exercises/python-basic-exercises.php)
+To practice I chose the following programs from **[w3resource / python-basic-exercises/](https://www.w3resource.com/python-exercises/python-basic-exercises.php)**
 
-### Topic Name-1
-*Question numbers*:  1, 2, 3
-### Topic Name-2
-*Question numbers*:  1, 2, 3
-
-## Codes
-The following are the questions i solved from w3resource and hackerrank
-
+### Codes:
 Each link will take you the the .ipynb file in which i have all the codes.
+#### Topic Name-1
+*Question numbers*:  1, 2, 3
+#### Topic Name-2
+*Question numbers*:  1, 2, 3
 
-## [W3resource](https://www.w3resource.com/python-exercises/python-basic-exercises.php)
+I solved the programs from **[Hackerank/Python](https://www.hackerrank.com/domains/python)** from the following filers:
 
-## [Hackerank/Python](https://www.hackerrank.com/domains/python)
-I solved the programs from the [python domain](https://www.hackerrank.com/domains/python) on hackerrak from the following filers:
-
-[Filtered link of hackkerank problems (Click for hackerrank site)]
+[Filtered link of hackkerank problems (Click for hackerrank site)]()
 
 ```
