@@ -39,6 +39,6 @@ Following are the courses of Statistics and Machine Learning:
 * [Machine Learning](https://www.coursera.org/learn/machine-learning)
 
 ## My Weekly progress:
-### [Week 1](https://github.com/habibanalytics/6-Months-Towards-Data-Science/blob/master/Weeks/Week%201.md)
+### [Week 1](https://github.com/habibanalytics/6-Months-Towards-Data-Science/blob/master/Weeks/M1%20Week%201.md)
 
 
