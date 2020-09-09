@@ -3,54 +3,54 @@
 
 [Python for everybody (Specialization)](https://www.coursera.org/specializations/python)
 
-1. [Programming for Everybody](https://www.coursera.org/learn/python?specialization=python)
-2. [Python Data Structures](https://www.coursera.org/learn/python-data?specialization=python)
-3. [Using Python to Access Web Data](https://www.coursera.org/learn/python-network-data?specialization=python)
-4. [Using Databases with Python](https://www.coursera.org/learn/python-databases?specialization=python)
-5. [Capstone: Retrieving, Processing, and Visualizing Data with Python](https://www.coursera.org/learn/python-data-visualization/home/welcome)
+* [Programming for Everybody](https://www.coursera.org/learn/python?specialization=python)
+* [Python Data Structures](https://www.coursera.org/learn/python-data?specialization=python)
+* [Using Python to Access Web Data](https://www.coursera.org/learn/python-network-data?specialization=python)
+* [Using Databases with Python](https://www.coursera.org/learn/python-databases?specialization=python)
+* [Capstone: Retrieving, Processing, and Visualizing Data with Python](https://www.coursera.org/learn/python-data-visualization/home/welcome)
 
 [Learn to Program: Crafting Quality Code (Certificate)](https://www.coursera.org/learn/program-code/home/welcome)
 
 [Social science (Specialization)](https://www.coursera.org/specializations/social-science)
 
-1. [Quantitative Methods](https://www.coursera.org/learn/quantitative-methods?specialization=social-science)
-2. [Qualitative Research Methods](https://www.coursera.org/learn/qualitative-methods?specialization=social-science)
-3. [Basic Statistics](https://www.coursera.org/learn/basic-statistics?specialization=social-science)
-4. [Inferential Statistics](https://www.coursera.org/learn/inferential-statistics?specialization=social-science)
-5. [Methods and Statistics in Social Science](https://www.coursera.org/learn/social-science-capstone)
+* [Quantitative Methods](https://www.coursera.org/learn/quantitative-methods?specialization=social-science)
+* [Qualitative Research Methods](https://www.coursera.org/learn/qualitative-methods?specialization=social-science)
+* [Basic Statistics](https://www.coursera.org/learn/basic-statistics?specialization=social-science)
+* [Inferential Statistics](https://www.coursera.org/learn/inferential-statistics?specialization=social-science)
+* [Methods and Statistics in Social Science](https://www.coursera.org/learn/social-science-capstone)
 
 [Mathematics for machine-learning (Specialization)](https://www.coursera.org/specializations/mathematics-machine-learning)
 
-1. [Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning)
-2. [Multivariate Calculus](https://www.coursera.org/learn/multivariate-calculus-machine-learning)
-3. [PCA](https://www.coursera.org/learn/pca-machine-learning)
+* [Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning)
+* [Multivariate Calculus](https://www.coursera.org/learn/multivariate-calculus-machine-learning)
+* [PCA](https://www.coursera.org/learn/pca-machine-learning)
 
 [Machine L](https://www.coursera.org/learn/machine-learning)earning
 
 [Deep L](https://www.coursera.org/specializations/deep-learning)earning (Specialization)
 
-1. [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning)
-2. [Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning)
-3. [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning)
-4. [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning)
-5. [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)
+* [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning)
+* [Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning)
+* [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning)
+* [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning)
+* [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)
 
 [Applied Data Science with Python (Specialization](https://www.coursera.org/specializations/data-science-python))
 
-1. [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis?specialization=data-science-python)
-2. [Applied Plotting, Charting &amp; Data Representation in Python](https://www.coursera.org/learn/python-plotting?specialization=data-science-python)
-3. [Applied Machine Learning in Python](https://www.coursera.org/learn/python-machine-learning?specialization=data-science-python)
-4. [Applied Text Mining in Python](https://www.coursera.org/learn/python-text-mining?specialization=data-science-python)
-5. [Applied Social Network Analysis in Python](https://www.coursera.org/learn/python-social-network-analysis)
+* [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis?specialization=data-science-python)
+* [Applied Plotting, Charting &amp; Data Representation in Python](https://www.coursera.org/learn/python-plotting?specialization=data-science-python)
+* [Applied Machine Learning in Python](https://www.coursera.org/learn/python-machine-learning?specialization=data-science-python)
+* [Applied Text Mining in Python](https://www.coursera.org/learn/python-text-mining?specialization=data-science-python)
+* [Applied Social Network Analysis in Python](https://www.coursera.org/learn/python-social-network-analysis)
 
 [Data Science Math Skills](https://www.coursera.org/learn/datasciencemathskills) (Certificate)
 
 [Tensorflow-in-practice](https://www.coursera.org/specializations/tensorflow-in-practice) (Specialization)
 
-1. [Introduction to TensorFlow](https://www.coursera.org/learn/introduction-tensorflow)
-2. [CNN in TensorFlow](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow)
-3. [NLP in TensorFlow](https://www.coursera.org/learn/natural-language-processing-tensorflow)
-4. [Sequences, Time Series and Prediction](https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction)
+* [Introduction to TensorFlow](https://www.coursera.org/learn/introduction-tensorflow)
+* [CNN in TensorFlow](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow)
+* [NLP in TensorFlow](https://www.coursera.org/learn/natural-language-processing-tensorflow)
+* [Sequences, Time Series and Prediction](https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction)
 
 # Other courses in Wish list
 
@@ -60,43 +60,43 @@
 
 [Advanced Machine Learning (Specialization)](https://www.coursera.org/specializations/aml)
 
-1. [Introduction to DL](https://www.coursera.org/learn/intro-to-deep-learning?specialization=aml)
-2. [How to Win a Data Science Competition: Learn from Top Kagglers](https://www.coursera.org/learn/competitive-data-science?specialization=aml)
-3. [Bayesian Methods for Machine Learning](https://www.coursera.org/learn/bayesian-methods-in-machine-learning?specialization=aml)
-4. [Practical Reinforcement Learning](https://www.coursera.org/learn/practical-rl?specialization=aml)
-5. [Deep Learning in Computer Vision](https://www.coursera.org/learn/deep-learning-in-computer-vision)
-6. [NLP](https://www.coursera.org/learn/language-processing)
-7. [Addressing Large Hadron Collider Challenges by Machine Learning](https://www.coursera.org/learn/hadron-collider-machine-learning)
+* [Introduction to DL](https://www.coursera.org/learn/intro-to-deep-learning?specialization=aml)
+* [How to Win a Data Science Competition: Learn from Top Kagglers](https://www.coursera.org/learn/competitive-data-science?specialization=aml)
+* [Bayesian Methods for Machine Learning](https://www.coursera.org/learn/bayesian-methods-in-machine-learning?specialization=aml)
+* [Practical Reinforcement Learning](https://www.coursera.org/learn/practical-rl?specialization=aml)
+* [Deep Learning in Computer Vision](https://www.coursera.org/learn/deep-learning-in-computer-vision)
+* [NLP](https://www.coursera.org/learn/language-processing)
+* [Addressing Large Hadron Collider Challenges by Machine Learning](https://www.coursera.org/learn/hadron-collider-machine-learning)
 
 [Statistics with Python (Specialization)](https://www.coursera.org/specializations/statistics-with-python#courses)
 
-1. [Understanding and Visualizing Data with Python](https://www.coursera.org/learn/understanding-visualization-data)
-2. [Inferential statistical analysis Python](https://www.coursera.org/learn/inferential-statistical-analysis-python)
-3. [Fitting statistical models data Python](https://www.coursera.org/learn/fitting-statistical-models-data-python)
+* [Understanding and Visualizing Data with Python](https://www.coursera.org/learn/understanding-visualization-data)
+* [Inferential statistical analysis Python](https://www.coursera.org/learn/inferential-statistical-analysis-python)
+* [Fitting statistical models data Python](https://www.coursera.org/learn/fitting-statistical-models-data-python)
 
 [Recommender Systems (Specialization)](https://www.coursera.org/specializations/recommender-systems#courses)
 
-1. [Recommender Systems Introduction](https://www.coursera.org/learn/recommender-systems-introduction?specialization=recommender-systems)
-2. [Collaborative Filtering](https://www.coursera.org/learn/collaborative-filtering?specialization=recommender-systems)
-3. [Recommender Metrics](https://www.coursera.org/learn/recommender-metrics?specialization=recommender-systems)
-4. [Matrix Factorization](https://www.coursera.org/learn/matrix-factorization?specialization=recommender-systems)
-5. [Recommender Systems Capstone](https://www.coursera.org/learn/recommeder-systems-capstone)
+* [Recommender Systems Introduction](https://www.coursera.org/learn/recommender-systems-introduction?specialization=recommender-systems)
+* [Collaborative Filtering](https://www.coursera.org/learn/collaborative-filtering?specialization=recommender-systems)
+* [Recommender Metrics](https://www.coursera.org/learn/recommender-metrics?specialization=recommender-systems)
+* [Matrix Factorization](https://www.coursera.org/learn/matrix-factorization?specialization=recommender-systems)
+* [Recommender Systems Capstone](https://www.coursera.org/learn/recommeder-systems-capstone)
 
 [AWS Fundamentals (Specialization)](https://www.coursera.org/specializations/aws-fundamentals#courses)
 
-1. [Going-cloud-native](https://www.coursera.org/learn/aws-fundamentals-going-cloud-native)
-2. [Addressing-security-risk](https://www.coursera.org/learn/aws-fundamentals-addressing-security-risk)
-3. [Cloud-migration](https://www.coursera.org/learn/aws-fundamentals-cloud-migration)
-4. [Building-serverless-applications](https://www.coursera.org/learn/aws-fundamentals-building-serverless-applications)
+* [Going-cloud-native](https://www.coursera.org/learn/aws-fundamentals-going-cloud-native)
+* [Addressing-security-risk](https://www.coursera.org/learn/aws-fundamentals-addressing-security-risk)
+* [Cloud-migration](https://www.coursera.org/learn/aws-fundamentals-cloud-migration)
+* [Building-serverless-applications](https://www.coursera.org/learn/aws-fundamentals-building-serverless-applications)
 
 [Advanced Machine Learning with TensorFlow on Google Cloud Platform (Specialization)](https://www.coursera.org/specializations/advanced-machine-learning-tensorflow-gcp)
 
 [Learn-SQL-basics-for-data-science (Specialization)](https://www.coursera.org/specializations/learn-sql-basics-data-science#courses)
 
-1. [sql-for-data-science](https://www.coursera.org/learn/sql-for-data-science)
-2. [data-wrangling, analysis, ab testing](https://www.coursera.org/learn/data-wrangling-analysis-abtesting)
-3. [spark-sql](https://www.coursera.org/learn/spark-sql)
-4. [sql-data-science-capstone](https://www.coursera.org/learn/sql-data-science-capstone)
+* [sql-for-data-science](https://www.coursera.org/learn/sql-for-data-science)
+* [data-wrangling, analysis, ab testing](https://www.coursera.org/learn/data-wrangling-analysis-abtesting)
+* [spark-sql](https://www.coursera.org/learn/spark-sql)
+* [sql-data-science-capstone](https://www.coursera.org/learn/sql-data-science-capstone)
 
 [Become a Data Analyst (nano degree)](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
 
