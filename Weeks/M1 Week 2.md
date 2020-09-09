@@ -1,14 +1,14 @@
-# **Week 2**
-
+# **Week 2 Goals**
+This weeks target is to:
+* Complete [Python Data Structures](https://www.coursera.org/learn/python-data?specialization=python) course from the specialization [Python for everybody (Specialization)](https://www.coursera.org/specializations/python)
+* Complete Week 1 & 2 of [Machine Learning](https://www.coursera.org/learn/machine-learning)
+* Complete Week 1 & 2 of [Basic Statistics](https://www.coursera.org/learn/basic-statistics?specialization=social-science)
 ## Courses In Progress
 * [Using Python to Access Web Data](https://www.coursera.org/learn/python-network-data?specialization=python)
 * [Using Databases with Python](https://www.coursera.org/learn/python-databases?specialization=python)
 * [Capstone: Retrieving, Processing, and Visualizing Data with Python](https://www.coursera.org/learn/python-data-visualization/home/welcome)
 * [Basic Statistics](https://www.coursera.org/learn/basic-statistics?specialization=social-science)
 * [Machine Learning](https://www.coursera.org/learn/machine-learning)
-
-
-[Learn to Program: Crafting Quality Code (Certificate)](https://www.coursera.org/learn/program-code/home/welcome)
 
 ## Courses Completed This Week
 * [NOT YET]()
@@ -27,11 +27,12 @@ I read the following pages from the [python tutorial](https://docs.python.org/3/
 
 ## Organizing material
 ### Day 1
-Day 1 I did nothing
+I did nothing
 ### Day 2
-Day 2 I did nothing
+I did nothing
 ### Day 3
-I started 
+I started [Python Data Structures](https://www.coursera.org/learn/python-data?specialization=python) course from the specialization of python. Consists of 7 weeks and 5 topics to learn in detail.
+So i Started with week 1 **Strings** and did all the exercises on hackerrank about strings. You can check the link out by  the end of this document.
 ### Day 4
 ..
 ### Day 5
