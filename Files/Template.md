@@ -1,6 +1,7 @@
 ```
-# **Week #**
-
+# **Week # Goals**
+* Goal 1
+* Goal 2
 ## Courses In Progress
 * []()
 ## Courses Completed This Week
