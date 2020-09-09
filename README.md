@@ -17,9 +17,21 @@ I will share
 * Amount of time spent
 * My Mistakes
 * Links i am learning from
+* How i organize my courses
+
 
 ## My Courses Wishlist
 I plan to do most of [these courses](https://github.com/habibanalytics/6-Months-Towards-Data-Science/blob/master/Files/Courses%20List.md) within the time of six months. 
+
+Most of my courses are **from coursera** so feel free to check them out because coursera has **financial aid** available and also we can **audit the course** if we want to learn without certification. 
+
+Some usefull blogs to read:
+
+[A Guide on How to Sign up for Coursera Courses for Free](https://www.classcentral.com/report/coursera-signup-for-free/)
+
+[How to apply financial aid](https://learner.coursera.help/hc/en-us/articles/209819033-Apply-for-Financial-Aid-or-a-Scholarship)
+
+[How to audit the course](https://learner.coursera.help/hc/en-us/articles/209818613-Enrollment-options)
 
 I am organising all of my courses in a way that i set a target for every month and week and by the end of each month and week I will set the target for the upcoming month and week.
 
