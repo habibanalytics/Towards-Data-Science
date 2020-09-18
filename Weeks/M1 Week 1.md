@@ -3,12 +3,6 @@ This was my first week. In the first week I completed a python course from cours
 
 ## Courses In Progress
 * [Python Data Structures](https://www.coursera.org/learn/python-data?specialization=python)
-* [Using Python to Access Web Data](https://www.coursera.org/learn/python-network-data?specialization=python)
-* [Using Databases with Python](https://www.coursera.org/learn/python-databases?specialization=python)
-* [Capstone: Retrieving, Processing, and Visualizing Data with Python](https://www.coursera.org/learn/python-data-visualization/home/welcome)
-* [Basic Statistics](https://www.coursera.org/learn/basic-statistics?specialization=social-science)
-* [Machine Learning](https://www.coursera.org/learn/machine-learning)
-
 
 ## Courses Completed This Week
 * [Python for everybody (Getting started with Python)](https://www.coursera.org/learn/python?specialization=python)
