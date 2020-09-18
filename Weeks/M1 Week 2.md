@@ -1,12 +1,8 @@
 # **Week 2 Goals**
 This weeks target is to:
-* Complete Weeks 3, 4 of [Python Data Structures](https://www.coursera.org/learn/python-data?specialization=python) course from the specialization [Python for everybody (Specialization)](https://www.coursera.org/specializations/python)
-* Complete Weeks 1 & 2 of [Machine Learning](https://www.coursera.org/learn/machine-learning)
-* Complete Weeks 1 & 2 of [Basic Statistics](https://www.coursera.org/learn/basic-statistics?specialization=social-science)
+* Complete Weeks 1, 2 of [Python Data Structures](https://www.coursera.org/learn/python-data?specialization=python) course from the specialization [Python for everybody (Specialization)](https://www.coursera.org/specializations/python)
 ## Courses In Progress
 * [Python Data Structures](https://www.coursera.org/learn/python-data?specialization=python)
-* [Basic Statistics](https://www.coursera.org/learn/basic-statistics?specialization=social-science)
-* [Machine Learning](https://www.coursera.org/learn/machine-learning)
 
 ## Courses Completed This Week
 * [NOT YET]()
@@ -18,25 +14,16 @@ Certifications attached on [LinkedIn Profile](https://www.linkedin.com/in/habib-
 I read the following pages from the [python tutorial](https://docs.python.org/3/tutorial/) site
 
 ## Organizing material
-### Day 1
-I did nothing
-### Day 2
-I did nothing
-### Day 3
 I started [Python Data Structures](https://www.coursera.org/learn/python-data?specialization=python) course from the specialization of python. Consists of 7 weeks and 5 topics to learn in detail.
 So i Started with week 1 **Strings** and did all the exercises on hackerrank about strings. You can check the link out by  the end of this document.
-### Day 4
-..
-### Day 5
-..
-### Day 6
-..
-### Day 7
- 
+
 ## Time Spent
 * #### Time spent on Video-lectures
+
 * #### Time Spent on Reading
+
 * #### Time Spent on Coding
+
 * #### Time Spent on Project*
 
 ## Notes
