@@ -1,12 +1,10 @@
 # **Week 2 Goals**
 This weeks target is to:
-* Complete [Python Data Structures](https://www.coursera.org/learn/python-data?specialization=python) course from the specialization [Python for everybody (Specialization)](https://www.coursera.org/specializations/python)
-* Complete Week 1 & 2 of [Machine Learning](https://www.coursera.org/learn/machine-learning)
-* Complete Week 1 & 2 of [Basic Statistics](https://www.coursera.org/learn/basic-statistics?specialization=social-science)
+* Complete Weeks 3, 4 of [Python Data Structures](https://www.coursera.org/learn/python-data?specialization=python) course from the specialization [Python for everybody (Specialization)](https://www.coursera.org/specializations/python)
+* Complete Weeks 1 & 2 of [Machine Learning](https://www.coursera.org/learn/machine-learning)
+* Complete Weeks 1 & 2 of [Basic Statistics](https://www.coursera.org/learn/basic-statistics?specialization=social-science)
 ## Courses In Progress
-* [Using Python to Access Web Data](https://www.coursera.org/learn/python-network-data?specialization=python)
-* [Using Databases with Python](https://www.coursera.org/learn/python-databases?specialization=python)
-* [Capstone: Retrieving, Processing, and Visualizing Data with Python](https://www.coursera.org/learn/python-data-visualization/home/welcome)
+* [Python Data Structures](https://www.coursera.org/learn/python-data?specialization=python)
 * [Basic Statistics](https://www.coursera.org/learn/basic-statistics?specialization=social-science)
 * [Machine Learning](https://www.coursera.org/learn/machine-learning)
 
@@ -15,12 +13,6 @@ This weeks target is to:
 
 ### My Linked-In
 Certifications attached on [LinkedIn Profile](https://www.linkedin.com/in/habib-ur-rehman/)
-
-## About Completed course
-This course Talks about:
-* Topic 1
-* Topic 2
-* Topic 3
 
 ## Reading Material
 I read the following pages from the [python tutorial](https://docs.python.org/3/tutorial/) site
