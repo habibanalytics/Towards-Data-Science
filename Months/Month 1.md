@@ -4,14 +4,11 @@
 I want to learn Python and Statistics.
 
 ### Goal 1
-One of my goal is to complete all the courses from the specialization of [python for everybody](https://www.coursera.org/specializations/python) from coursera. 
+One of my goal is to complete some courses from the specialization of [python for everybody](https://www.coursera.org/specializations/python) from coursera. 
 
 The following are the courses from the specialization:
 1. [Programming for Everybody](https://www.coursera.org/learn/python?specialization=python)
 2. [Python Data Structures](https://www.coursera.org/learn/python-data?specialization=python)
-3. [Using Python to Access Web Data](https://www.coursera.org/learn/python-network-data?specialization=python)
-4. [Using Databases with Python](https://www.coursera.org/learn/python-databases?specialization=python)
-5. [Capstone: Retrieving, Processing, and Visualizing Data with Python](https://www.coursera.org/learn/python-data-visualization/home/welcome)
 
 ### Goal 2
 I want to read 'The Python Tutorial' from the official website [python.org tutorial](https://docs.python.org/3/tutorial/) by the end of this month.
@@ -20,9 +17,9 @@ I want to read 'The Python Tutorial' from the official website [python.org tutor
 I want to achieve a 5 Star - Gold Badge Level on hackerank's python domain by the end of this month.
 
 ### Goal 4
-Complete the [Basic Statistics Course](https://www.coursera.org/learn/basic-statistics/).
+Complete 4 weeks of [Basic Statistics Course](https://www.coursera.org/learn/basic-statistics/).
 
-### Goal 5
+### Goal 5 (Optional)
 I also want to try out [codesignal-arcade](https://app.codesignal.com/arcade) by the end of this month idk if i can finish it or not but it has a lot of prgrams so I'll try out for two months.
 
 ### My Focus in the first month
@@ -40,5 +37,10 @@ Following are the courses of Statistics and Machine Learning:
 
 ## My Weekly progress:
 ### [Week 1](https://github.com/habibanalytics/6-Months-Towards-Data-Science/blob/master/Weeks/M1%20Week%201.md)
+### [Week 2](https://github.com/habibanalytics/6-Months-Towards-Data-Science/blob/master/Weeks/M1%20Week%202.md)
+### [Week 3](https://github.com/habibanalytics/6-Months-Towards-Data-Science/blob/master/Weeks/M1%20Week%203.md)
+### [Week 4](https://github.com/habibanalytics/6-Months-Towards-Data-Science/blob/master/Weeks/M1%20Week%204.md)
+
+
 
 
