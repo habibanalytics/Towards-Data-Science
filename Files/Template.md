@@ -15,15 +15,11 @@ This course Talks about:
 * Topic 1
 * Topic 2
 * Topic 3
-
-## Reading Material
-I read the following pages from the [python tutorial](https://docs.python.org/3/tutorial/) site
-
-## Organizing material
+# My work:
 ### Day 1
-What you did on Day 1
+What I did on Day 1
 ### Day 2
-What you did on Day 2
+What I did on Day 1
 ### Day 3
 ..
 ### Day 4
@@ -33,19 +29,18 @@ What you did on Day 2
 ### Day 6
 ..
 ### Day 7
- 
+.. 
+
+
+
+## Reading Material
+I read the following pages from the [python tutorial](https://docs.python.org/3/tutorial/) site
+
 ## Time Spent
 * #### Time spent on Video-lectures
 * #### Time Spent on Reading
 * #### Time Spent on Coding
 * #### Time Spent on Project*
-
-## Notes
-* []()
-* []()
-
-## Practice
-To practice I chose the following programs from **[w3resource / python-basic-exercises/](https://www.w3resource.com/python-exercises/python-basic-exercises.php)**
 
 ### Codes:
 Each link will take you the the .ipynb file in which i have all the codes.
