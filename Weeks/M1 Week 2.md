@@ -27,7 +27,7 @@ So i Started with week 1 **Strings** and did all the exercises on hackerrank abo
 * #### Time Spent on Project*
 
 ## Notes
-* []()
+* [Machine Learning Week 1](https://github.com/habibanalytics/Machine-Learning-Andrew-NG/blob/master/Week%201/README.md)
 * []()
 
 ## Practice
