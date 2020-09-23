@@ -1,5 +1,7 @@
-# **Week 1**
-This was my first week. In the first week I completed a python course from coursera.
+# **Week 1 Goals**
+* Goal 1
+Complete the following courses from coursera.
+* [Programming for Everybody (Getting started with python) ~ Coursera](https://www.coursera.org/learn/python?specialization=python)
 
 ## Courses In Progress
 * [Python Data Structures](https://www.coursera.org/learn/python-data?specialization=python)
@@ -13,42 +15,75 @@ Certifications attached on [LinkedIn Profile](https://www.linkedin.com/in/habib-
 ## About Completed course
 It's a great course that teaches you the basics of programming, Underlying structure of the computer, how the computer thinks, how the computer works with the programs etc.
 
-This course Talks about:
-* variables
-* if else statements
-* loops
-* try except
+[link to the repository notes and codes](https://github.com/habibanalytics/Python-For-Everybody-Specialization/blob/master/Getting%20Started%20with%20Python/README.md)
 
-## Reading Material
-I read the following pages frrom the [python tutorial](https://docs.python.org/3/tutorial/) siteI read the following pages from the [python tutorial](https://docs.python.org/3/tutorial/) site
+# My work:
+### Day 1
+What I did on Day 1
+### Day 2
+What I did on Day 2
+### Day 3
+..
+### Day 4
+..
+### Day 5
+..
+### Day 6
+..
+### Day 7
+.. 
 
-* Whetting Your Appetite
-* Using the Python Interpreter
-..* Invoking the Interpreter
-....* Argument Passing
-....* Interactive Mode
-..* The Interpreter and Its Environment
-....* Source Code Encoding
-* An Informal Introduction to Python
-..* Using Python as a Calculator
-....* Numbers
-..* First Steps Towards Programming
-* More Control Flow Tools
-..* if Statements
-..* for Statements
-..* The range() Function
-..* break and continue Statements, and else Clauses on Loops
-..* pass Statements
+
 
 ## Time Spent
 * #### Time spent on Video-lectures
-I spent about 2 hours daily watching video lectures
+2 hours daily watching video lectures
 * #### Time Spent on Reading
-I spent about 1 hour daily on reading material
+1 hour daily on reading material
 * #### Time Spent on Coding
-I spent about 3 hours daily Coding
+3 hours daily Coding
+* #### Time Spent on Project*
+* #### Time spent Daily
+Total time daily spend was 6 hours a day. 
+#### How i managed my time
+Mostly I would program in the mornings because the mind is fresh at that time and during the rest of the day I would watch the video lectures and solve quizzes for the course. I would read the documentation by the end of the day.
 
-So a total of 6 hours a day in the first week. Mostly I would program in the mornings because the mind is fresh at that time and during the rest of the day I would watch the video lectures and solve quizzes for the course. I would read the documentation by the end of the day.
+
+
+
+
+### Other Activity:
+Each link will take you the the Files in which i have all the work done.
+I solved the programs from **[Hackerank/Python](https://www.hackerrank.com/domains/python)** from the following filers:
+[Filtered link of hackkerank problems (Click for hackerrank site)]()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+========================================================================================
+
+
+
+
+
+## Reading Material
+I read the following pages frrom the [python tutorial](https://docs.python.org/3/tutorial/) siteI read the following pages from the [python tutorial](https://docs.python.org/3/tutorial/) 
+
+
+
+
 
 ## Practice
 I came across a website called [w3resource](https://www.w3resource.com/python-exercises/) that has a lot of problem questions in which I can practice python.
