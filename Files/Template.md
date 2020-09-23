@@ -11,15 +11,13 @@
 Certifications attached on [LinkedIn Profile](https://www.linkedin.com/in/habib-ur-rehman/)
 
 ## About Completed course
-This course Talks about:
-* Topic 1
-* Topic 2
-* Topic 3
+[README link to the repository]()
+
 # My work:
 ### Day 1
 What I did on Day 1
 ### Day 2
-What I did on Day 1
+What I did on Day 2
 ### Day 3
 ..
 ### Day 4
@@ -33,24 +31,18 @@ What I did on Day 1
 
 
 
-## Reading Material
-I read the following pages from the [python tutorial](https://docs.python.org/3/tutorial/) site
-
 ## Time Spent
+* #### Time spent Daily
+* #### Time spent Total
 * #### Time spent on Video-lectures
 * #### Time Spent on Reading
 * #### Time Spent on Coding
 * #### Time Spent on Project*
 
-### Codes:
-Each link will take you the the .ipynb file in which i have all the codes.
-#### Topic Name-1
-*Question numbers*:  1, 2, 3
-#### Topic Name-2
-*Question numbers*:  1, 2, 3
 
+### Other Activity:
+Each link will take you the the Files in which i have all the work done.
 I solved the programs from **[Hackerank/Python](https://www.hackerrank.com/domains/python)** from the following filers:
-
 [Filtered link of hackkerank problems (Click for hackerrank site)]()
 
 ```
