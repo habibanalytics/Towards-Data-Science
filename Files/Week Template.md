@@ -32,12 +32,19 @@ What I did on Day 2
 
 
 ## Time Spent
-* #### Time spent Daily
-* #### Time spent Total
 * #### Time spent on Video-lectures
+? hours daily watching video lectures
 * #### Time Spent on Reading
+? hours daily on reading material
 * #### Time Spent on Coding
+3 hours daily Coding
 * #### Time Spent on Project*
+* #### Time spent Daily
+Total time daily spend was 6 hours a day. 
+#### How i managed my time
+Mostly I would program in the mornings because the mind is fresh at that time and during the rest of the day I would watch the video lectures and solve quizzes for the course. I would read the documentation by the end of the day.
+
+
 
 
 ### Other Activity:
