@@ -3,12 +3,8 @@
 I will introduce myself to get started. I’m Habib-ur-Rehman from a computer science background.
 
 I worked in Java, C# and C++ In the past. But for the past 6-7 months I have not worked in these programming languages. I tried learning python from different resources and so i figured to do it the right way.
- 
-The topics such as machine learning, python, data science, big-data These topics are really trending these days and are highly in demand in the market. I searched a lot about data science and so I finally decided to become one because it is a respectable job and it pays well.
 
 I talked to data scientists online and from their suggestions I came across a lot of courses that I want to do In order to learn Data Science the proper way.
-
-The idea of sharing this whole experience is that you guys can share with me your opinion, your ideas to help me improve and you can also follow along.
 
 I will share
 * My code
@@ -19,7 +15,7 @@ I will share
 * How i organize my courses
 
 
-## My Courses Wishlist
+## My Plan
 I plan to do most of [these courses](https://github.com/habibanalytics/6-Months-Towards-Data-Science/blob/master/Files/Courses%20List.md) within the time of six months. 
 
 Most of my courses are **from coursera** so feel free to check them out because coursera has **financial aid** available and also we can **audit the course** if we want to learn without certification. 
