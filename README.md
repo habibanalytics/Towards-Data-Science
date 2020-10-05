@@ -28,11 +28,9 @@ Some usefull blogs to read if you're interested in coursera:
 
 [How to audit the course?](https://learner.coursera.help/hc/en-us/articles/209818613-Enrollment-options)
 
-I am organising all of my courses in a way that i set a target for every month and week and by the end of each month and week I will set the target for the upcoming month and week.
-
 For each course i can study one week's worth content in one day. So that way i can complete courses in fewer days.
 
-By the end of each week I will share my experience in this GitHub repository. 
+By the end of each week I will share my experience in this GitHub repository.
 
 ## My Work
 So Here is my whole experience step by step.
