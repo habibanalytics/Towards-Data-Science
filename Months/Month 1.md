@@ -15,12 +15,10 @@ The following are the courses from the specialization:
 Read [Python docs](https://docs.python.org/3/tutorial/)
 
 ### Goal 3 (Youtube Content to watch)
-[Python Tutorials by Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
+[Python Tutorials by Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7)
 
 ### Goal 4 (Exercises or badges - If any)
-Earn Gold Badge by the end of first Month.
-
-[Hackerrank Python](https://www.hackerrank.com/domains/python)
+Earn Gold Badge by the end of first Month in [Hackerrank Python](https://www.hackerrank.com/domains/python)
 
 ### Goal 5 (Projects - If any)
 Not Decided Yet...
