@@ -3,9 +3,6 @@ Goal 1
 Complete the following courses from coursera.
 * [Programming for Everybody (Getting started with python) ~ Coursera](https://www.coursera.org/learn/python?specialization=python)
 
-## Courses In Progress
-* [Python Data Structures](https://www.coursera.org/learn/python-data?specialization=python)
-
 ## Courses Completed This Week
 * [Python for everybody (Getting started with Python)](https://www.coursera.org/learn/python?specialization=python)
 
