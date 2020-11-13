@@ -20,13 +20,13 @@ What I did on Day 2
 ..
 ## Day 7
 .. 
-
+........................................................................................................................
 ## Courses Completed This Week
 * []()
 
 About Completed course: 
 [README link to the repository]()
-
+........................................................................................................................
 ## Time Spent
 * ? hours daily watching video lectures
 * ? hours daily on reading material
