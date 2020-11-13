@@ -1,5 +1,5 @@
 # **Week 1 Goals**
-Goal 1
+1. ## Goal 1
 Complete the following courses from coursera.
 * [Programming for Everybody (Getting started with python) ~ Coursera](https://www.coursera.org/learn/python?specialization=python)
 
