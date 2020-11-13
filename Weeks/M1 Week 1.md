@@ -1,18 +1,11 @@
-# **Week 1 Goals**
-## Goal 1.
-Complete the following courses from coursera.
-* [Programming for Everybody (Getting started with python) ~ Coursera](https://www.coursera.org/learn/python?specialization=python)
 
-## Courses Completed This Week
-* [Python for everybody (Getting started with Python)](https://www.coursera.org/learn/python?specialization=python)
 
 ### My Linked-In
 Certifications attached on [LinkedIn Profile](https://www.linkedin.com/in/habib-ur-rehman/)
 
 ## About Completed course
-It's a great course that teaches you the basics of programming, Underlying structure of the computer, how the computer thinks, how the computer works with the programs etc.
 
-[link to the repository notes and codes](https://github.com/habibanalytics/Python-For-Everybody-Specialization/blob/master/Getting%20Started%20with%20Python/README.md)
+
 
 # My work:
 ### Day 1
@@ -32,30 +25,55 @@ What I did on Day 2
 
 
 
+
+
+
+
+
+
+# **Week 1 Goals**
+## Goal 1:
+Complete the following courses from coursera.
+* [Programming for Everybody (Getting started with python) ~ Coursera](https://www.coursera.org/learn/python?specialization=python)
+
+---
+
+
+# Daily Progress:
+## Day 1
+What I did on Day 1
+## Day 2
+What I did on Day 2
+## Day 3
+..
+## Day 4
+..
+## Day 5
+..
+## Day 6
+..
+## Day 7
+.. 
+
+---
+
+
+## Courses Completed This Week
+
+* [Python for everybody (Getting started with Python)](https://www.coursera.org/learn/python?specialization=python)
+### About Completed course: 
+It's a great course that teaches you the basics of programming, Underlying structure of the computer, how the computer thinks, how the computer works with the programs etc.
+[README link to the repository](https://github.com/habibanalytics/Python-For-Everybody-Specialization/blob/master/Getting%20Started%20with%20Python/README.md)
+
+---
+
 ## Time Spent
-* #### Time spent on Video-lectures
-2 hours daily watching video lectures
-* #### Time Spent on Reading
-1 hour daily on reading material
-* #### Time Spent on Coding
-3 hours daily Coding
-* #### Time Spent on Project*
-* #### Time spent Daily
+* 2 hours daily watching video lectures
+* 1 hour  daily on reading material
+* 3 hours daily Coding
 Total time daily spend was 6 hours a day. 
-#### How i managed my time
+### How i managed my time
 Mostly I would program in the mornings because the mind is fresh at that time and during the rest of the day I would watch the video lectures and solve quizzes for the course. I would read the documentation by the end of the day.
-
-
-
-
-
-### Other Activity:
-Each link will take you the the Files in which i have all the work done.
-I solved the programs from **[Hackerank/Python](https://www.hackerrank.com/domains/python)** from the following filers:
-[Filtered link of hackkerank problems (Click for hackerrank site)]()
-
-
-
 
 
 
