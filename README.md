@@ -1,18 +1,11 @@
 # 6 Months Towards Data Science
 
-I will introduce myself to get started. I’m Habib-ur-Rehman from a computer science background.
+I’m Habib-ur-Rehman from a computer science background.
 
-I worked in Java, C# and C++ In the past. But for the past 6-7 months I have not worked in these programming languages. I tried learning python from different resources and so i figured to do it the right way.
+I worked in Java, C# and C++ In the past. But for the past 6-7 months I have not worked in these programming languages. 
+I tried learning python from different resources and so i figured to do it the right way.
 
-I talked to data scientists online and from their suggestions I came across a lot of courses that I want to do In order to learn Data Science the proper way.
-
-I will share
-* My code
-* My notes
-* Amount of time spent
-* My Mistakes
-* Links i am learning from
-* How i organize my courses
+I will share My code, My notes, Amount of time spent, Links i am learning from etc.
 
 
 ## My Plan
