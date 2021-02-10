@@ -9,11 +9,11 @@ I will share My code, My notes, Amount of time spent, Links i am learning from e
 
 
 ## My Plan
-I plan to do most of [these courses](https://github.com/habibanalytics/6-Months-Towards-Data-Science/blob/master/Files/Courses%20List.md) within the time of six months. 
+I plan to do most of [these courses]() to learn about data science.
 
 Most of my courses are **from coursera** so feel free to check them out because coursera has **financial aid** available and also we can **audit the course** if we want to learn without certification. 
 
-Some usefull blogs to read if you're interested in coursera:
+Some usefull blogs to read if you want financial aid on coursera:
 
 [How to Sign up for Coursera Courses for Free?](https://www.classcentral.com/report/coursera-signup-for-free/)
 
@@ -27,9 +27,9 @@ By the end of each week I will share my experience in this GitHub repository.
 
 ## My Work
 So Here is my whole experience step by step.
-### [Month 1](https://github.com/habibanalytics/6-Months-Towards-Data-Science/blob/master/Months/Month%201.md)
-* #### [Week 1](https://github.com/habibanalytics/6-Months-Towards-Data-Science/blob/master/Weeks/M1%20Week%201.md)
-* #### [Week 2](https://github.com/habibanalytics/6-Months-Towards-Data-Science/blob/master/Weeks/M1%20Week%202.md)
-* #### [Week 3](https://github.com/habibanalytics/6-Months-Towards-Data-Science/blob/master/Weeks/M1%20Week%203.md)
-* #### [Week 4](https://github.com/habibanalytics/6-Months-Towards-Data-Science/blob/master/Weeks/M1%20Week%204.md)
+### [Month 1]()
+* #### [Week 1]()
+* #### [Week 2]()
+* #### [Week 3]()
+* #### [Week 4]()
 
