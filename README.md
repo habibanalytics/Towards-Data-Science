@@ -9,7 +9,7 @@ I will share My code, My notes, Amount of time spent, Links i am learning from e
 
 
 ## My Plan
-I plan to do most of [these courses]() to learn about data science.
+I plan to do most of [these courses]() to learn about data science. And a couple of projects which are not decided yet.
 
 Most of my courses are **from coursera** so feel free to check them out because coursera has **financial aid** available and also we can **audit the course** if we want to learn without certification. 
 
