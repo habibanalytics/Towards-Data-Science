@@ -4,6 +4,7 @@
 
 ### Goal 1 (Specialization if any)
 [Python for everybody (Specialization)](https://www.coursera.org/specializations/python)
+
 The following are the courses from the specialization:
 * [Programming for Everybody](https://www.coursera.org/learn/python?specialization=python)
 * [Python Data Structures](https://www.coursera.org/learn/python-data?specialization=python)
@@ -14,9 +15,6 @@ The following are the courses from the specialization:
 ### Goal 2 (Reading Material)
 Read [Python docs](https://docs.python.org/3/tutorial/)
 
-### Goal 3 (Youtube Content to watch)
-[Python Tutorials by Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7)
-
 ### Goal 4 (Exercises or badges - If any)
 Earn Gold Badge by the end of first Month in [Hackerrank Python](https://www.hackerrank.com/domains/python)
 
@@ -24,7 +22,7 @@ Earn Gold Badge by the end of first Month in [Hackerrank Python](https://www.hac
 Not Decided Yet...
 
 ## My Weekly progress:
-### [Week 1](https://github.com/habibanalytics/6-Months-Towards-Data-Science/blob/master/Weeks/M1%20Week%201.md)
-### [Week 2](https://github.com/habibanalytics/6-Months-Towards-Data-Science/blob/master/Weeks/M1%20Week%202.md)
-### [Week 3](https://github.com/habibanalytics/6-Months-Towards-Data-Science/blob/master/Weeks/M1%20Week%203.md)
-### [Week 4](https://github.com/habibanalytics/6-Months-Towards-Data-Science/blob/master/Weeks/M1%20Week%204.md)
+### [Week 1]()
+### [Week 2]()
+### [Week 3]()
+### [Week 4]()
