@@ -40,7 +40,6 @@ About Completed course:
 * ? hours daily Time spent Daily
 Total time daily spend was ? hours a day. 
 ### How i managed my time
-Mostly I would program in the mornings because the mind is fresh at that time and during the rest of the day I would watch the video lectures and solve quizzes for the course. I would read the documentation by the end of the day.
 
 
 
